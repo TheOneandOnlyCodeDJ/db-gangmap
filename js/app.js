@@ -162,7 +162,7 @@ $(function() {
 					name: 'Territories',
 					icon: 'General/wall-breach.png',
 					enabled: true,
-					url: 'data/territories.4.json',
+					url: 'data/territories.json',
 				}),
 				new CategoryModel({
 					name: 'Weed Turf',

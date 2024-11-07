@@ -1,19 +1,5 @@
 [
 	{
-		"title": "Central Los Santos Medical Center",
-		"notes": "",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "FF005A",
-		"fillcolor": "FF005A",
-		"latlngarray": [
-			{"lat": -70.724, "lng": -4.978},
-			{"lat": -71.513, "lng": -2.066},
-			{"lat": -72.157, "lng": -5.626},
-			{"lat": -71.673, "lng": -7.439}
-		]
-	},
-	{
 		"title": "Pillbox Medical Center",
 		"notes": "Pillbox Medical Center is the main hospital in Los Santos. Pillbox is the center of higher medicine in the city of Los Santos. It is home to the Emergency Medical Services, however EMS is not owned or funded by the hospital. They work with the rest of the governmental agencies across the city and routinely give them necessary higher medical services.",
 		"wiki_link": "https://nopixel.fandom.com/wiki/Pillbox_Medical_Center",

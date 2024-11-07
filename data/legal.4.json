@@ -1,5 +1,19 @@
 [
 	{
+		"title": "DOJ",
+		"notes": "Deparment of Justice",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "196ffa",
+		"fillcolor": "196ffa",
+		"latlngarray": [
+			{"lat": -56.142, "lng": -32.742},
+			{"lat": -57.671, "lng": -31.116},
+			{"lat": -57.001, "lng": -28.249},
+			{"lat": -55.431, "lng": -29.908}
+		]
+	},
+	{
 		"title": "RF PD",
 		"notes": "Rockford Police Department",
 		"wiki_link": "",

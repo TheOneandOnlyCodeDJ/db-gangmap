@@ -1,5 +1,25 @@
 [
-	
+	{
+		"title": "Ballas",
+		"notes": "New South Side Gang",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "601bcf",
+		"fillcolor": "601bcf",
+		"latlngarray": [
+			{"lat": -76.089, "lng": -12.199},
+			{"lat": -75.839, "lng": -13.430},
+			{"lat": -75.452, "lng": -15.166},
+			{"lat": -75.095, "lng": -16.440},
+			{"lat": -74.671, "lng": -14.836},
+			{"lat": -75.157, "lng": -12.727},
+			{"lat": -75.397, "lng": -12.199},
+			{"lat": -75.524, "lng": -10.969},
+			{"lat": -75.698, "lng": -10.485},
+			{"lat": -75.871, "lng": -11.013},
+			{"lat": -76.052, "lng": -11.518}
+		]
+	},
 	{
 		"title": "AKATORA",
 		"notes": "AKATORA ON TOP",

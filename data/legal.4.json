@@ -1,3 +1,19 @@
 [
-	
+	{
+		"title": "RF PD",
+		"notes": "Rockford Police Department",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "196ffa",
+		"fillcolor": "196ffa",
+		"latlngarray": [
+			{"lat": -54.248, "lng": -34.596},
+			{"lat": -54.100, "lng": -33.980},
+			{"lat": -54.062, "lng": -32.816},
+			{"lat": -54.274, "lng": -31.662},
+			{"lat": -54.574, "lng": -30.783},
+			{"lat": -55.231, "lng": -30.058},
+			{"lat": -55.952, "lng": -32.937}
+		]
+	},
 ]

@@ -167,7 +167,7 @@ $(function() {
 				new CategoryModel({
 					name: 'Drug Turf',
 					icon: 'radar/radar_weed_stash.png',
-					enabled: true,
+					enabled: false,
 					url: 'data/drug_turf.json',
 				}),
 				new CategoryModel({

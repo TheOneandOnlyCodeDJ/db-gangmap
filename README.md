@@ -1,7 +1,7 @@
 Daybreak Territory map
 ====
 [Live page](https://theoneandonlycodedj.github.io/db-gangmap/)
-This interactive (Google) map shows you the location of current NoPixel territory/gang zones.
+This interactive (Google) map shows you the location of current Daybreak territory/gang zones.
 
 ## How to submit new locations
 1. Right click on the map to add points.

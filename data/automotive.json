@@ -1,3 +1,16 @@
 [
-	
+	{
+		"title": "Stance Andreas",
+		"notes": "New Bussiness ran by Yami Hoshiko",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "c93504",
+		"fillcolor": "c93504",
+		"latlngarray": [
+			{"lat": -25.569, "lng": 8.292},
+			{"lat": -25.489, "lng": 6.490},
+			{"lat": -24.233, "lng": 6.501},
+			{"lat": -24.183, "lng": 8.193}
+		]
+	}
 ]

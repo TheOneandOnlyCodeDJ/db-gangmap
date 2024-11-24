@@ -1,5 +1,19 @@
 [
 	{
+		"title": "Mosley's Autos",
+		"notes": "Owned by Faith",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -70.705, "lng": -20.387},
+			{"lat": -70.420, "lng": -20.398},
+			{"lat": -70.408, "lng": -22.419},
+			{"lat": -70.701, "lng": -22.408}
+		]
+	},
+	{
 		"title": "Stance Andreas",
 		"notes": "New Bussiness ran by Yami Hoshiko",
 		"wiki_link": "",

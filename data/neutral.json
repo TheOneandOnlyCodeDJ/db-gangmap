@@ -1,5 +1,19 @@
 [
 	{
+		"title": "Impound Lot",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -73.025, "lng": -3.323},
+			{"lat": -73.330, "lng": -4.092},
+			{"lat": -73.615, "lng": -2.905},
+			{"lat": -73.330, "lng": -2.048}
+		]
+	},
+	{
 		"title": "Apartments",
 		"notes": "The Apartments is where new players wake up.",
 		"wiki_link": "",
